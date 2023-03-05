@@ -20,3 +20,4 @@ Step 5:
 Use 'npm build start' to see if anything is making an error and the run the web app using "npm start"
 
 Enjoy the app!🚀
+and you can edit and customize the app as per your need
