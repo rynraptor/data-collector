@@ -5,14 +5,7 @@ import { useState } from "react";
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA25dm3sclxkYcnSnZ1d0e-RT5kspY5TeM",
-  authDomain: "data-collector-11262.firebaseapp.com",
-  databaseURL: "https://data-collector-11262-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "data-collector-11262",
-  storageBucket: "data-collector-11262.appspot.com",
-  messagingSenderId: "712578451958",
-  appId: "1:712578451958:web:ca8495ce61b981e8669fd7",
-  measurementId: "G-PL81QWCMNC"
+// Enter your configuration
 };
 
 // Initialize Firebase
